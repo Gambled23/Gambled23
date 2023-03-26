@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm César González</h1>
-<h3 align="center">A mexican student</h3>
+<h3 align="center">A system engineering student</h3>
 
 - 🔭 I’m currently working on **my college degree**
 
