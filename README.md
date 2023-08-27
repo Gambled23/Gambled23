@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my college degree**
 
-- 🌱 I’m currently learning **django and algorithms**
+- 🌱 I’m currently learning **django and bash scripting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gambled23](https://github.com/Gambled23)
 
