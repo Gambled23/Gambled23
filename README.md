@@ -1,4 +1,5 @@
-### <div align="center">I´m César Girón, I love automation, computers, and automating computers</div>  
+### <div align="center">I´m César Girón</div>  
+## <div align="center">I love automation, computers, and automating computers</div>  
   
 
 - 🔭 I’m currently working on **My college degree**  
@@ -86,8 +87,3 @@
 
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
