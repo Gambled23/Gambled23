@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **My college degree**  
   
 
-- 🌱 I’m currently learning **django and bash scripting**  
+- 🌱 I’m currently learning **Bash scripting and Nix Enviroments**  
   
 
 - 🤖 Ask me about anything related to my discord bot   
