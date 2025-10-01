@@ -2,13 +2,13 @@
 ## <div align="center">I love automation, computers, and automating computers</div>  
   
 
-- 🔭 I’m currently working on **My college degree**  
+- 🔭 I’m currently working on **Web Developing**  
   
 
 - 🌱 I’m currently learning **Bash scripting and Nix Enviroments**  
   
 
-- 🤖 Ask me about anything related to my discord bot   
+- 🤖 Ask me about anything related to my nix dotfiles
   
 
 <br/>  
