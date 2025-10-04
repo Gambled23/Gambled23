@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Bash scripting and Nix Enviroments**  
   
 
-- 🤖 Ask me about anything related to my nix dotfiles
+- 🤖 Ask me about anything related to my home server
   
 
 <br/>  
