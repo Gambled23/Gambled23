@@ -2,10 +2,10 @@
 ## <div align="center">I love automation, computers, and automating computers</div>  
   
 
-- 🔭 I’m currently working on **Web Developing**  
+- 🔭 I’m currently working as **Lead Web Developer**  
   
 
-- 🌱 I’m currently learning **Bash scripting and Nix Enviroments**  
+- 🌱 I’m currently learning **Hyprland ricing**  
   
 
 - 🤖 Ask me about anything related to my home server
