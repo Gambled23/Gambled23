@@ -1,6 +1,6 @@
 # <div align="center">I´m César Girón</div>  
 ## <div align="center">I love automation, computers, and automating computers</div>  
-  
+  ![](https://komarev.com/ghpvc/?username=Gambled23)
 
 - 🔭 I’m currently working as **Lead Web Developer**  
   
