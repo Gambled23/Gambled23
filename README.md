@@ -2,9 +2,10 @@
 ## <div align="center">I love automation, computers, and automating computers</div>  
 
 # 💫 About Me:
-🔭 I’m currently working as Lead Web Developer<br><br>
-🌱 I’m currently learning Hyprland ricing<br><br>
-🤖 Ask me about anything related to my home server
+👨🏻‍💻 I’m currently working as Lead Web Developer<br><br>
+🍚 I’m currently learning Hyprland ricing<br><br>
+🖥️ Ask me about anything related to my home server<br><br>
+🎨 I love gruvbox<br><br>
 
 
 # 💻 Tech Stack:
