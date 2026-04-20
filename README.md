@@ -5,6 +5,7 @@
 👨🏻‍💻 Lead Web Developer @ AlphaFintech <br><br>
 🍚 I’m currently learning Hyprland ricing <br><br>
 ❄️ My pc, laptop, home server and steamdeck run on Nix and NixOS <br><br>
+❄️ I try to contribute to (mainly nix) OSS Projects I find interesting or use daily <br><br>
 🎨 I love gruvbox<br><br>
 
 
