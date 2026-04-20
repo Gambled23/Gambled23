@@ -14,9 +14,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=Gambled23&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Gambled23&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gambled23&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gambled23&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+### 🔝 Top Repos:
+![Repos I created](https://github-contrib-stats.vercel.app/gambled23/created.svg)
 
+![Repos I contributed to](https://github-contrib-stats.vercel.app/gambled23/contributed.svg)
 ---
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Gambled23&color=orange"/>
