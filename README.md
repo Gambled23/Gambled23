@@ -3,9 +3,10 @@
 
 # 💫 About Me:
 👨🏻‍💻 Lead Web Developer @ AlphaFintech <br><br>
-🍚 I’m currently learning Hyprland ricing <br><br>
-❄️ My pc, laptop, home server and steamdeck run on Nix and NixOS <br><br>
-❄️ I try to contribute to (mainly nix) OSS Projects I find interesting or use daily <br><br>
+❄️ Nixpkgs Maintainer <br><br>
+🍚 I’m currently learning quickshell <br><br>
+💻 My pc, home server and steamdeck run on Nix and NixOS <br><br>
+📦 I try to contribute to FOSS Projects I find interesting or use daily <br><br>
 🎨 I love gruvbox<br><br>
 
 
@@ -20,6 +21,9 @@
 
 ![Repos I contributed to](https://github-contrib-stats.vercel.app/gambled23/contributed.svg)
 ---
+<h1>Profile Views</h1>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Gambled23&color=orange"/>
+    <!-- <img src="https://komarev.com/ghpvc/?username=Gambled23&color=orange"/> -->
+    <img src="https://count.getloli.com/@Gambled23?name=Gambled23&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":Gambled23" />
 </p>
+
