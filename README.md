@@ -3,8 +3,10 @@
 
 # 💫 About Me:
 👨🏻‍💻 Lead Web Developer @ AlphaFintech <br><br>
+<!-- 
 ❄️ Nixpkgs Maintainer <br><br>
 🍚 I’m currently learning quickshell <br><br>
+-->
 💻 My pc, home server and steamdeck run on Nix and NixOS <br><br>
 📦 I try to contribute to FOSS Projects I find interesting or use daily <br><br>
 🎨 I love gruvbox<br><br>
